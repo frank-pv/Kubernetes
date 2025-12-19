@@ -36,6 +36,7 @@ GitHub访问不通畅可以访问国内GitEE https://gitee.com/cby-inc/Kubernete
 
 # 三、当前文档版本
 
+- 1.35.x
 - 1.34.x
 - 1.33.x
 - 1.32.x
@@ -66,9 +67,13 @@ https://github.com/cby-chen/kube_ansible
 
 ### 最新版本文档
 - [kubeadm-install.md](./doc/kubeadm-install-V1.32.md)
+- [v1.35.0-CentOS-binary-install-IPv6-IPv4-Three-Masters-Two-Slaves-Offline.md](./doc/v1.35.0-CentOS-binary-install-IPv6-IPv4-Three-Masters-Two-Slaves-Offline.md)
 - [v1.34.0-CentOS-binary-install-IPv6-IPv4-Three-Masters-Two-Slaves-Offline.md](./doc/v1.34.0-CentOS-binary-install-IPv6-IPv4-Three-Masters-Two-Slaves-Offline.md)
 
 ## 安装文档
+###  1.35.x版本
+- [v1.35.0-CentOS-binary-install-IPv6-IPv4-Three-Masters-Two-Slaves-Offline.md](./doc/v1.35.0-CentOS-binary-install-IPv6-IPv4-Three-Masters-Two-Slaves-Offline.md)
+
 ###  1.34.x版本
 - [v1.34.0-CentOS-binary-install-IPv6-IPv4-Three-Masters-Two-Slaves-Offline.md](./doc/v1.34.0-CentOS-binary-install-IPv6-IPv4-Three-Masters-Two-Slaves-Offline.md)
 
